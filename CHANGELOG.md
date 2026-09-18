@@ -1,3 +1,9 @@
+## [1.0.1-dev.1](https://github.com/dowjames/morphe-patches/compare/v1.0.0...v1.0.1-dev.1) (2026-09-18)
+
+### 🐛 Bug Fixes
+
+* Generic bundle branding for multi-patch repository ([ffde655](https://github.com/dowjames/morphe-patches/commit/ffde655c5ff19f21cfed6ac4e2909724d46484ff))
+
 ## 1.0.0 (2026-09-18)
 
 ### ✨ New Features
