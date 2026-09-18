@@ -1,5 +1,33 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "0.0.0",
-  "patches": []
+  "version": "1.0.0-dev.1",
+  "patches": [
+    {
+      "name": "Unlock premium",
+      "description": "Unlocks all premium membership features in the app.",
+      "default": true,
+      "category": null,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "premom.eh.com.ehpremomapp",
+          "name": "PreMom",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#FF8A65",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.105.1",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    }
+  ]
 }
