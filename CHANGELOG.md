@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/dowjames/morphe-patches/compare/v1.0.1...v1.1.0) (2026-09-18)
+
+### ✨ New Features
+
+* Add support for Premom 1.107.2 ([8db6a79](https://github.com/dowjames/morphe-patches/commit/8db6a790e0a3685618753e7da96c5168b5698e27))
+
 ## [1.0.1](https://github.com/dowjames/morphe-patches/compare/v1.0.0...v1.0.1) (2026-09-18)
 
 ### 🐛 Bug Fixes
