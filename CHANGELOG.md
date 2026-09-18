@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/dowjames/morphe-patches/compare/v1.1.0...v1.2.0) (2026-09-18)
+
+### ✨ New Features
+
+* Add Waze Android Auto police alert distance patch (1200m) ([c0e8f03](https://github.com/dowjames/morphe-patches/commit/c0e8f03a7de5e8ca04cc905bfb0d238cfa57cf66))
+
 ## [1.1.0](https://github.com/dowjames/morphe-patches/compare/v1.0.1...v1.1.0) (2026-09-18)
 
 ### ✨ New Features
