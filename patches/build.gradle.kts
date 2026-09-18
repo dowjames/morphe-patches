@@ -1,9 +1,9 @@
-group = "eh.premom"
+group = "com.dowjames.patches"
 
 patches {
     about {
-        name = "PreMom Patches"
-        description = "Premium unlock patches for the PreMom app"
+        name = "dowjames Morphe Patches"
+        description = "A collection of Morphe patches for Android apps"
         source = "https://github.com/dowjames/morphe-patches.git"
         author = "rprobst"
         contact = "na"
