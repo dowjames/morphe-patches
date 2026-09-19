@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/dowjames/morphe-patches/compare/v1.2.0...v1.3.0) (2026-09-19)
+
+### ✨ New Features
+
+* Add Praktika premium unlock patch ([6b89f9c](https://github.com/dowjames/morphe-patches/commit/6b89f9c8ddd7c7cf4ca14886a84138cb75069953))
+
 ## [1.2.0](https://github.com/dowjames/morphe-patches/compare/v1.1.0...v1.2.0) (2026-09-18)
 
 ### ✨ New Features
