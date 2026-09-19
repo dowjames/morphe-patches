@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/dowjames/morphe-patches/compare/v1.3.0...v1.3.1) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* Remove Praktika patch (login is server-side signature-gated, not patchable) ([f1380cc](https://github.com/dowjames/morphe-patches/commit/f1380cc13ff5f920747ff0ffb8ef11595197459e))
+
 ## [1.3.0](https://github.com/dowjames/morphe-patches/compare/v1.2.0...v1.3.0) (2026-09-19)
 
 ### ✨ New Features
