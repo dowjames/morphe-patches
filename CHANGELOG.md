@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/dowjames/morphe-patches/compare/v1.4.0...v1.5.0) (2026-09-19)
+
+### ✨ New Features
+
+* Add Yuka premium unlock patch ([406113a](https://github.com/dowjames/morphe-patches/commit/406113aeef5f885f077b314bcf1a7f92039f8b79))
+
 ## [1.4.0](https://github.com/dowjames/morphe-patches/compare/v1.3.1...v1.4.0) (2026-09-19)
 
 ### ✨ New Features
