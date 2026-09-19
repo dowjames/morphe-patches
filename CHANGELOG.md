@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/dowjames/morphe-patches/compare/v1.5.0...v1.6.0) (2026-09-19)
+
+### ✨ New Features
+
+* Add Pool Math premium unlock patch ([1c78f48](https://github.com/dowjames/morphe-patches/commit/1c78f4827c3a6e83ed29b006486004315b02ea66))
+
 ## [1.5.0](https://github.com/dowjames/morphe-patches/compare/v1.4.0...v1.5.0) (2026-09-19)
 
 ### ✨ New Features
