@@ -1,3 +1,9 @@
+## [1.7.0](https://github.com/dowjames/morphe-patches/compare/v1.6.0...v1.7.0) (2026-09-19)
+
+### ✨ New Features
+
+* Add Snapchat remove ads patch ([2e11b8a](https://github.com/dowjames/morphe-patches/commit/2e11b8a79a86637b068ad90d1455f6fa371f4bae))
+
 ## [1.6.0](https://github.com/dowjames/morphe-patches/compare/v1.5.0...v1.6.0) (2026-09-19)
 
 ### ✨ New Features

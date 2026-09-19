@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "patches": [
     {
       "name": "Android Auto police alert distance",
@@ -19,6 +19,33 @@
           "targets": [
             {
               "version": "5.23.90.900",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Remove ads",
+      "description": "Disables Snapchat ad requests and ad insertion.",
+      "default": true,
+      "category": null,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.snapchat.android",
+          "name": "Snapchat",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#CDCA00",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "14.24.0.46",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
