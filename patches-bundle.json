@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-19T21:18:02",
-  "description": "## [1.7.0](https://github.com/dowjames/morphe-patches/compare/v1.6.0...v1.7.0) (2026-09-19)\n\n### ✨ New Features\n\n* Add Snapchat remove ads patch ([2e11b8a](https://github.com/dowjames/morphe-patches/commit/2e11b8a79a86637b068ad90d1455f6fa371f4bae))",
-  "download_url": "https://github.com/dowjames/morphe-patches/releases/download/v1.7.0/patches-1.7.0.mpp",
+  "created_at": "2026-09-19T21:44:30",
+  "description": "## [1.7.1](https://github.com/dowjames/morphe-patches/compare/v1.7.0...v1.7.1) (2026-09-19)\n\n### 🐛 Bug Fixes\n\n* Remove Snapchat patch (login attestation is not bypassable) ([0d46f22](https://github.com/dowjames/morphe-patches/commit/0d46f22929a786d78e85f190ff6f71b982bc92f1))",
+  "download_url": "https://github.com/dowjames/morphe-patches/releases/download/v1.7.1/patches-1.7.1.mpp",
   "signature_download_url": "",
-  "version": "1.7.0"
+  "version": "1.7.1"
 }

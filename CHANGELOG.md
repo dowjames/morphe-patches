@@ -1,3 +1,9 @@
+## [1.7.1](https://github.com/dowjames/morphe-patches/compare/v1.7.0...v1.7.1) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* Remove Snapchat patch (login attestation is not bypassable) ([0d46f22](https://github.com/dowjames/morphe-patches/commit/0d46f22929a786d78e85f190ff6f71b982bc92f1))
+
 ## [1.7.0](https://github.com/dowjames/morphe-patches/compare/v1.6.0...v1.7.0) (2026-09-19)
 
 ### ✨ New Features
