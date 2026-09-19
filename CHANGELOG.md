@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/dowjames/morphe-patches/compare/v1.3.1...v1.4.0) (2026-09-19)
+
+### ✨ New Features
+
+* Add Think Dirty premium unlock patch ([dc81269](https://github.com/dowjames/morphe-patches/commit/dc81269f603d8c2c591f0531f9ec5e045fd94e44))
+
 ## [1.3.1](https://github.com/dowjames/morphe-patches/compare/v1.3.0...v1.3.1) (2026-09-19)
 
 ### 🐛 Bug Fixes
