@@ -1,3 +1,9 @@
+## [1.8.1](https://github.com/dowjames/morphe-patches/compare/v1.8.0...v1.8.1) (2026-11-11)
+
+### 🐛 Bug Fixes
+
+* **paprika:** widen billing callback registers and fix branch target ([f2bd012](https://github.com/dowjames/morphe-patches/commit/f2bd0121b53bd0abf0c0638a975471b627f94292))
+
 ## [1.8.0](https://github.com/dowjames/morphe-patches/compare/v1.7.1...v1.8.0) (2026-11-11)
 
 ### ✨ New Features
