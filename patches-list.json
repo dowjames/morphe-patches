@@ -31,33 +31,6 @@
     },
     {
       "name": "Unlock premium",
-      "description": "Unlocks Paprika Premium by injecting a synthetic owned subscription into Google Play billing callbacks.",
-      "default": true,
-      "category": null,
-      "dependencies": [],
-      "compatiblePackages": [
-        {
-          "packageName": "com.hindsightlabs.paprika.android.v3",
-          "name": "Paprika",
-          "description": null,
-          "apkFileType": "APKM",
-          "appIconColor": "#B22F1A",
-          "signatures": null,
-          "targets": [
-            {
-              "version": "4.0.14",
-              "versionCodes": null,
-              "isExperimental": false,
-              "minSdk": null,
-              "description": null
-            }
-          ]
-        }
-      ],
-      "options": []
-    },
-    {
-      "name": "Unlock premium",
       "description": "Unlocks Pool Math premium features.",
       "default": true,
       "category": null,
